@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on:
+  - 3D graphic website
+- 🌱 I’m currently learning GoLang
+- 💬 Ask me about
+  - Frontend Development
+  - Operating System
+- ⚡ Fun fact:
+  - Tried Gentoo and is not as bad as the meme around
 
 <!--
 **thaddeuscleo/thaddeuscleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
