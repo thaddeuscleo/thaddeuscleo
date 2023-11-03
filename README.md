@@ -1,12 +1,38 @@
-### Hi there 👋
-- 🔭 I’m currently working on:
-  - 3D graphic website
-- 🌱 I’m currently learning GoLang
-- 💬 Ask me about
-  - Frontend Development
-  - Operating System
-- ⚡ Fun fact:
-  - Tried Gentoo and is not as bad as the meme around
+# 👋 Hello, I'm Thaddeus Cleo!
+
+I'm a 🚀 DevOps Engineer passionate about automation, orchestration, monitoring, custom tooling, and artificial intelligence. 🤖
+
+## 💼 About Me
+- 💻 Current Job: DevOps Engineer
+- 🌟 Current Favorite Programming Lang: GoLang
+- 🪶 Current Favorite Distro: EndeavourOS
+- 🌐 Able to Code in: Python, PHP, Javascript, Typescript, C
+
+## 🔧 Tools & Technologies
+- 🛠️ Favorite Tools: VSCode, Terraform, Ansible, Docker
+- ☁️ Infrastructure as Code: AWS CDK, CDKTF
+- 📈 Monitoring Stack: Prometheus, Loki, Jaeger, Grafana
+- 🚨 Alerting: Grafana
+- ⚙️ CI/CD Tools: Jenkins, GitHub Actions
+- ☸️ Orchestration: Kubernetes (K8s)
+
+## 🌟 My Interests
+- 🤖 Artificial Intelligence
+- ⚙️ Automation
+- 🎭 Orchestration
+- 📊 Monitoring
+- 🛠️ Custom Tooling
+
+Feel free to explore my repositories to find useful projects related to these topics! 🚀
+
+<!-- Add any social media or contact links below -->
+<!-- ![Twitter](https://twitter.com/your_username) -->
+![LinkedIn](https://linkedin.com/in/thaddeus-cleo/)
+
+📫 Let's connect! Feel free to reach out to me via [email](mailto:thaddeuscleo@gmail.com) 📧
+
+Thanks for visiting my GitHub profile! 🌟
+
 
 <!--
 **thaddeuscleo/thaddeuscleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
