@@ -5,7 +5,7 @@ I'm a 🚀 DevOps Engineer passionate about automation, orchestration, monitorin
 ## 💼 About Me
 - 💻 Current Job: DevOps Engineer
 - 🌟 Current Favorite Programming Lang: GoLang
-- 🪶 Current Favorite Distro: EndeavourOS
+- 🪶 Current Favorite Distro: Arch Linux
 - 🌐 Able to Code in: Python, PHP, Javascript, Typescript, C
 
 ## 🔧 Tools & Technologies
