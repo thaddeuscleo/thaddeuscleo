@@ -1,12 +1,11 @@
 # 👋 Hello, I'm Thaddeus Cleo!
 
-I'm a 🚀 DevOps Engineer passionate about automation, orchestration, monitoring, custom tooling, and artificial intelligence. 🤖
+I'm a 🚀 Cloud Engineer passionate about automation, orchestration, monitoring, custom tooling, and artificial intelligence. 🤖
 
 ## 💼 About Me
-- 💻 Current Job: DevOps Engineer
-- 🌟 Current Favorite Programming Lang: GoLang
+- 🌟 Current Favorite Programming Lang: Rust
 - 🪶 Current Favorite Distro: Arch Linux
-- 🌐 Able to Code in: Python, PHP, Javascript, Typescript, C
+- 🌐 Able to Code in: Python, PHP, Javascript, Typescript, C, Go, Rust
 
 ## 🔧 Tools & Technologies
 - 🛠️ Favorite Tools: VSCode, Terraform, Ansible, Docker
@@ -40,7 +39,7 @@ Thanks for visiting my GitHub profile! 🌟
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- thaddeuscleo/realtime-chat-api-cdk8s I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
